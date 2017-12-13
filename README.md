@@ -7,6 +7,7 @@
 3. (**done**) Create repository named "kottans_frontend".
 4. (**done**) Create README.md for the repository.
 5. (**done**) Describe your impressions about learned materials.
+6. (**done**) Send a pull-request to repo Kottans/mock-repo proposing a change.
 
 *impressions*: I have learned a lot of new things. It was interesting.
 
