@@ -18,6 +18,14 @@
 
 *impressions*: I have learned a lot of new things. It was interesting.
 
+![localhost 8080](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res4-2.png "localhost 8080")
+
+![My server Apache](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res4-1.png "My server Apache")
+
+![Configuring Linux Web Servers](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res4.png "Configuring Linux Web Servers")
+
+![Linux Command Line Basics](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res3.png "Linux Command Line Basics")
+
 ![Finish the course How to use Git and GitHub](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res1.png "Finish the course How to use Git and GitHub")
 
 ![Finish try.github.io](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res2.png "Finish try.github.io")
