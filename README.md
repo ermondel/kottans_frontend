@@ -12,11 +12,17 @@
 2. Task 1:
    * (**done**) Linux Command Line Basics
    * (**done**) Configuring Linux Web Servers
-   * Networking for Web Developers
+   * (**done**) Networking for Web Developers
    * HTTP: The Protocol Every Web Developer Must Know - Part 1
    * HTTP: The Protocol Every Web Developer Must Know - Part 2
 
+
 *impressions*: I have learned a lot of new things. It was interesting.
+
+
+![Networking for Web Developers](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res5.png "Networking for Web Developers")
+
+![tcpdump port 12345](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res5.png "tcpdump port 12345")
 
 ![localhost 8080](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res4-2.png "localhost 8080")
 
