@@ -1,6 +1,7 @@
 # Kottans frontend
 
 ![Valar](https://github.com/ermondel/kottans_frontend/blob/master/images/readme/vala.png "Valar")
+
 *impressions*: I have learned a lot of new things. It was interesting.
 
 1. Task 0 (get familiar with Git and GitHub):
