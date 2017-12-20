@@ -20,7 +20,7 @@
 *impressions*: I have learned a lot of new things. It was interesting.
 
 
-![Networking for Web Developers](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res5.png "Networking for Web Developers")
+![Networking for Web Developers](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res6.png "Networking for Web Developers")
 
 ![tcpdump port 12345](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res5.png "tcpdump port 12345")
 
