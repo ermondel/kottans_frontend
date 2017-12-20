@@ -15,8 +15,8 @@
    * (**done**) Linux Command Line Basics
    * (**done**) Configuring Linux Web Servers
    * (**done**) Networking for Web Developers
-   * HTTP: The Protocol Every Web Developer Must Know - Part 1
-   * HTTP: The Protocol Every Web Developer Must Know - Part 2
+   * (**done**) HTTP: The Protocol Every Web Developer Must Know - Part 1
+   * (**done**) HTTP: The Protocol Every Web Developer Must Know - Part 2
 
 
 
