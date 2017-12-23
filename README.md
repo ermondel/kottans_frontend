@@ -17,8 +17,16 @@
    * (**done**) Networking for Web Developers
    * (**done**) HTTP: The Protocol Every Web Developer Must Know - Part 1
    * (**done**) HTTP: The Protocol Every Web Developer Must Know - Part 2
+3. Task 2:
+   * (**done**) What is Version Control
+   * (**done**) GitHub & Collaboration
+   * @/all in process ...
 
+*GitHub & Collaboration (100% completed)*
+![GitHub & Collaboration](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res8.png "GitHub & Collaboration")
 
+*What is Version Control (100% completed)*
+![What is Version Control](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res7.png "What is Version Control")
 
 *Networking for Web Developers (100% completed)*
 ![Networking for Web Developers](https://github.com/ermondel/kottans_frontend/blob/master/images/resume/res6.png "Networking for Web Developers")
