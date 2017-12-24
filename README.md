@@ -16,7 +16,8 @@
 3. Task 2:
    * (**done**) What is Version Control
    * (**done**) GitHub & Collaboration
-   * @/all in process ...
+   * (**done**) @/all
+
 
 *impressions*: I have learned a lot of new things. It was interesting.
 * Task 2: *I already familiar with Git from previous lessons. New for me: option log -w, git add . , git shortlog, tags, file CONTRIBUTING.md, Issues. Squash commits and git reset --hard (with options) surprised me. All studied I will to use in the future.*
