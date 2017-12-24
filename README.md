@@ -23,34 +23,36 @@
    * @/all in process ...
 
 *GitHub & Collaboration (100% completed)*
-![GitHub & Collaboration](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_2/task2-1.png "GitHub & Collaboration")
+[![GitHub & Collaboration](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_2/task2-1_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_2/task2-1.png)
 
 *What is Version Control (100% completed)*
-![What is Version Control](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_2/task2-0.png "What is Version Control")
+[![What is Version Control](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_2/task2-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_2/task2-0.png)
 
 *tcpdump port 12345 on my virtual machine*
-![tcpdump port 12345](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-extra3.png "tcpdump port 12345")
+[![tcpdump port 12345](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_1/task1-extra3_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-extra3.png)
 
 *localhost 8080 on my virtual machine*
-![*localhost 8080*](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-extra2.png "localhost 8080")
+[![localhost 8080](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_1/task1-extra2_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-extra2.png)
+
 
 *My server Apache*
-![My server Apache](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-extra1.png "My server Apache")
+[![My server Apache](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_1/task1-extra1_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-extra1.png)
+
 
 *Networking for Web Developers (100% completed)*
-![Networking for Web Developers](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-3.png "Networking for Web Developers")
+[![Networking for Web Developers](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_1/task1-3_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-3.png)
 
 *Configuring Linux Web Servers (100% completed)*
-![Configuring Linux Web Servers](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-2.png "Configuring Linux Web Servers")
+[![Configuring Linux Web Servers](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_1/task1-2_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-2.png)
 
 *Linux Command Line Basics (100% completed)*
-![Linux Command Line Basics](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-1.png "Linux Command Line Basics")
+[![Linux Command Line Basics](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_1/task1-1_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-1.png)
 
 *Finish try.github.io (100% completed)*
-![Finish try.github.io](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_0/task0-2.png "Finish try.github.io")
+[![Finish try.github.io](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_0/task0-2_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_0/task0-2.png)
 
 *Finish the course How to use Git and GitHub (100% completed)*
-![Finish the course How to use Git and GitHub](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_0/task0-1.png "Finish the course How to use Git and GitHub")
+[![Finish the course How to use Git and GitHub](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_0/task0-1_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_0/task0-1.png)
 
 
 ---
