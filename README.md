@@ -17,12 +17,18 @@
    * (**done**) What is Version Control
    * (**done**) GitHub & Collaboration
    * (**done**) @/all
+4. Task 3:
+   * (**done**) Intro to HTML & CSS
 
 
 *impressions*: I have learned a lot of new things. It was interesting.
-* Task 2: *I already familiar with Git from previous lessons. New for me: option log -w, git add . , git shortlog, tags, file CONTRIBUTING.md, Issues. Squash commits and git reset --hard (with options) surprised me. All studied I will to use in the future.*
+* Task 3: *I'm already familiar with HTML and CSS in past. New for me: the figure element and the site cssmatic.com/box-shadow (these two things I will use in the future).*
+* Task 2: *I'm already familiar with Git from previous lessons. New for me: option log -w, git add . , git shortlog, tags, file CONTRIBUTING.md, Issues. Squash commits and git reset --hard (with options) surprised me. All studied I will to use in the future.*
 * Task 1: *Everything was new for me, I never worked with Linux in the past. I was surprised by the Vagrant program, the Linux file system, the access rights to files, ports, everything in networks, the structure of the HTTP protocol. All studied I will to use in the future, I hope :-)*
 * Task 0: *Everything was new for me. Branching surprised me. All studied I will to use in the future.*
+
+---
+[![Intro to HTML & CSS](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_3/task3-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_3/task3-0.png)
 
 ---
 [![GitHub & Collaboration](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_2/task2-1_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_2/task2-1.png)
