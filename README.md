@@ -1,26 +1,26 @@
 # Kottans frontend
 
 1. Task 0 (get familiar with Git and GitHub):
-   * (**done**) Finish the course How to use Git and GitHub.
-   * (**done**) Finish try.github.io
-   * (**done**) Create repository named "kottans_frontend".
-   * (**done**) Create README.md for the repository.
-   * (**done**) Describe your impressions about learned materials.
-   * (**done**) Send a pull-request to repo Kottans/mock-repo proposing a change.
+   * (**done**) [Finish the course How to use Git and GitHub](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_0/task0-1.png)
+   * (**done**) [Finish try.github.io](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_0/task0-2.png)
+   * (**done**) Create repository named "kottans_frontend"
+   * (**done**) Create README.md for the repository
+   * (**done**) Describe your impressions about learned materials
+   * (**done**) Send a pull-request to repo Kottans/mock-repo proposing a change
 2. Task 1:
-   * (**done**) Linux Command Line Basics
-   * (**done**) Configuring Linux Web Servers
-   * (**done**) Networking for Web Developers
+   * (**done**) [Linux Command Line Basics](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-1.png)
+   * (**done**) [Configuring Linux Web Servers](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-2.png)
+   * (**done**) [Networking for Web Developers](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_1/task1-3.png)
    * (**done**) HTTP: The Protocol Every Web Developer Must Know - Part 1
    * (**done**) HTTP: The Protocol Every Web Developer Must Know - Part 2
 3. Task 2:
-   * (**done**) What is Version Control
-   * (**done**) GitHub & Collaboration
+   * (**done**) [What is Version Control](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_2/task2-0.png)
+   * (**done**) [GitHub & Collaboration](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_2/task2-1.png)
    * (**done**) @/all
 4. Task 3:
-   * (**done**) Intro to HTML & CSS
+   * (**done**) [Intro to HTML & CSS](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_3/task3-0.png)
 5. Task 4:
-   * (**done**) Responsive Web Design Fundamentals
+   * (**done**) [Responsive Web Design Fundamentals](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_4/task4-0.png)
 
 
 *impressions*: I have learned a lot of new things. It was interesting.
