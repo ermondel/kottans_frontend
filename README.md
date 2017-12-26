@@ -19,13 +19,19 @@
    * (**done**) @/all
 4. Task 3:
    * (**done**) Intro to HTML & CSS
+5. Task 4:
+   * (**done**) Responsive Web Design Fundamentals
 
 
 *impressions*: I have learned a lot of new things. It was interesting.
+* Task 4: *Everything was new for me. Surprised me: viewport, dips, media queries, flexbox, responsive images. All studied I will to use in the future.*
 * Task 3: *I'm already familiar with HTML and CSS in past. New for me: the figure element and the site cssmatic.com/box-shadow (these two things I will use in the future).*
 * Task 2: *I'm already familiar with Git from previous lessons. New for me: option log -w, git add . , git shortlog, tags, file CONTRIBUTING.md, Issues. Squash commits and git reset --hard (with options) surprised me. All studied I will to use in the future.*
 * Task 1: *Everything was new for me, I never worked with Linux in the past. I was surprised by the Vagrant program, the Linux file system, the access rights to files, ports, everything in networks, the structure of the HTTP protocol. All studied I will to use in the future, I hope :-)*
 * Task 0: *Everything was new for me. Branching surprised me. All studied I will to use in the future.*
+
+---
+[![Responsive Web Design Fundamentals](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_4/task4-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_4/task4-0.png)
 
 ---
 [![Intro to HTML & CSS](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_3/task3-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_3/task3-0.png)
