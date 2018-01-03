@@ -24,7 +24,9 @@
 6. Task 5:
    * (**done**) [Intro to JS](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_5/task5-0.png)
 7. Task 6:
-   * (**done**) [Object Oriented JS](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_6/task6-0.png)
+   * (**done**) [Object Oriented JS](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_6/task6-0.png)   
+   demo [ermondel.github.io/frogger](https://ermondel.github.io/frogger)   
+   repository [github.com/ermondel/frogger](https://github.com/ermondel/frogger)   
 
 
 *impressions*: I have learned a lot of new things. It was interesting.
@@ -37,6 +39,7 @@
 * Task 0: *Everything was new for me. Branching surprised me. All studied I will to use in the future.*
 
 ---
+[![Frogger-like game](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_6/task6-frogger-game_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_6/task6-frogger-game.png)
 [![Object Oriented JS](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_6/task6-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_6/task6-0.png)
 ### Frogger-like game
 #### demo
