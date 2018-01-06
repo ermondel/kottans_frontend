@@ -27,9 +27,12 @@
    * (**done**) [Object Oriented JS](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_6/task6-0.png)   
    demo [ermondel.github.io/frogger](https://ermondel.github.io/frogger)   
    repository [github.com/ermondel/frogger](https://github.com/ermondel/frogger)   
+8. Task 7:
+   * (**done**) [Offline Web Applications](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_7/task7-0.png)
 
 
 *impressions*: I have learned a lot of new things. It was interesting.
+* Task 7: *Everything was new for me in this cours. Surprised me Service Workers and IDB. Probably all studied I will to use in the future I hope :-) it was very interesting.*
 * Task 6: *Everything was new for me. Surprised me: closures, prototype, decorators, pseudoclassical subclasses. All studied I will to use in the future.*
 * Task 5: *I'm already familiar with basics JavaScript in past. Nothing new for me :-)*
 * Task 4: *Everything was new for me. Surprised me: viewport, dips, media queries, flexbox, responsive images. All studied I will to use in the future.*
@@ -37,6 +40,11 @@
 * Task 2: *I'm already familiar with Git from previous lessons. New for me: option log -w, git add . , git shortlog, tags, file CONTRIBUTING.md, Issues. Squash commits and git reset --hard (with options) surprised me. All studied I will to use in the future.*
 * Task 1: *Everything was new for me, I never worked with Linux in the past. I was surprised by the Vagrant program, the Linux file system, the access rights to files, ports, everything in networks, the structure of the HTTP protocol. All studied I will to use in the future, I hope :-)*
 * Task 0: *Everything was new for me. Branching surprised me. All studied I will to use in the future.*
+
+---
+[![Offline Web Applications](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_7/task7-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_7/task7-0.png)
+[![Wittr](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_7/task7-wittr-chrome_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_7/task7-wittr-chrome.png)
+
 
 ---
 [![Frogger-like game](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_6/task6-frogger-game_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_6/task6-frogger-game.png)
