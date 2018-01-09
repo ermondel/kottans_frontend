@@ -29,6 +29,10 @@
    repository [github.com/ermondel/frogger](https://github.com/ermondel/frogger)   
 8. Task 7:
    * (**done**) [Offline Web Applications](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_7/task7-0.png)
+9. Task 8:
+   * (**done**) [Memory Pair Game](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_8/task8-0.png)   
+   demo [ermondel.github.io/memorypair](https://ermondel.github.io/memorypair)   
+   repository [github.com/ermondel/memorypair](https://github.com/ermondel/memorypair)   
 
 
 *impressions*: I have learned a lot of new things. It was interesting.
@@ -40,6 +44,14 @@
 * Task 2: *I'm already familiar with Git from previous lessons. New for me: option log -w, git add . , git shortlog, tags, file CONTRIBUTING.md, Issues. Squash commits and git reset --hard (with options) surprised me. All studied I will to use in the future.*
 * Task 1: *Everything was new for me, I never worked with Linux in the past. I was surprised by the Vagrant program, the Linux file system, the access rights to files, ports, everything in networks, the structure of the HTTP protocol. All studied I will to use in the future, I hope :-)*
 * Task 0: *Everything was new for me. Branching surprised me. All studied I will to use in the future.*
+
+---
+[![Memory Pair Game](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_8/task8-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_8/task8-0.png)
+### Memory Pair Game
+#### demo
+[ermondel.github.io/memorypair](https://ermondel.github.io/memorypair)
+#### repository
+[github.com/ermondel/memorypair](https://github.com/ermondel/memorypair)
 
 ---
 [![Offline Web Applications](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_7/task7-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_7/task7-0.png)
