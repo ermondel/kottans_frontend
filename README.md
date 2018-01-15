@@ -35,10 +35,11 @@
    repository [github.com/ermondel/memorypair](https://github.com/ermondel/memorypair)
 10. Task 9:
    * (**in process...**) [Website Performance Optimization](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_draft.png)
+11. Task 10:
 
 
 *impressions*: I have learned a lot of new things. It was interesting.
-* in process... *
+* in process...
 * Task 7: *Everything was new for me in this cours. Surprised me Service Workers and IDB. Probably all studied I will to use in the future I hope :-) it was very interesting.*
 * Task 6: *Everything was new for me. Surprised me: closures, prototype, decorators, pseudoclassical subclasses. All studied I will to use in the future.*
 * Task 5: *I'm already familiar with basics JavaScript in past. Nothing new for me :-)*
