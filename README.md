@@ -60,7 +60,9 @@
 [![PageSpeed Insights page 3 desktop](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page4-desktop_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page4-desktop.png)
 [![PageSpeed Insights page 3 mobile](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page4-mobile_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page4-mobile.png)
 #### demo
-[ermondel.github.io/frontend-nanodegree-mobile-portfolio/](https://ermondel.github.io/frontend-nanodegree-mobile-portfolio/)
+[ermondel.github.io/frontend-nanodegree-mobile-portfolio/](https://ermondel.github.io/frontend-nanodegree-mobile-portfolio)
+#### repository
+[https://github.com/ermondel/frontend-nanodegree-mobile-portfolio](https://github.com/ermondel/frontend-nanodegree-mobile-portfolio)
 
 ---
 [![Memory Pair Game](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_8/task8-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_8/task8-0.png)
