@@ -32,9 +32,9 @@
 9. Task 8:
    * (**done**) [Memory Pair Game](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_8/task8-0.png)   
    demo [ermondel.github.io/memorypair](https://ermondel.github.io/memorypair)   
-   repository [github.com/ermondel/memorypair](https://github.com/ermondel/memorypair)
+   repository [github.com/ermondel/memorypair](https://github.com/ermondel/memorypair)   
 10. Task 9:
-   * (**in process...**) [Website Performance Optimization](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_draft.png)
+   * (**in process...**) [Website Performance Optimization](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_draft.png)   
 11. Task 10:
 
 
