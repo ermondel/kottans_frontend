@@ -32,10 +32,13 @@
 9. Task 8:
    * (**done**) [Memory Pair Game](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_8/task8-0.png)   
    demo [ermondel.github.io/memorypair](https://ermondel.github.io/memorypair)   
-   repository [github.com/ermondel/memorypair](https://github.com/ermondel/memorypair)   
+   repository [github.com/ermondel/memorypair](https://github.com/ermondel/memorypair)
+10. Task 9:
+   * (*in process*) [Website Performance Optimization](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_draft.png)
 
 
 *impressions*: I have learned a lot of new things. It was interesting.
+*in process*
 * Task 7: *Everything was new for me in this cours. Surprised me Service Workers and IDB. Probably all studied I will to use in the future I hope :-) it was very interesting.*
 * Task 6: *Everything was new for me. Surprised me: closures, prototype, decorators, pseudoclassical subclasses. All studied I will to use in the future.*
 * Task 5: *I'm already familiar with basics JavaScript in past. Nothing new for me :-)*
@@ -44,6 +47,18 @@
 * Task 2: *I'm already familiar with Git from previous lessons. New for me: option log -w, git add . , git shortlog, tags, file CONTRIBUTING.md, Issues. Squash commits and git reset --hard (with options) surprised me. All studied I will to use in the future.*
 * Task 1: *Everything was new for me, I never worked with Linux in the past. I was surprised by the Vagrant program, the Linux file system, the access rights to files, ports, everything in networks, the structure of the HTTP protocol. All studied I will to use in the future, I hope :-)*
 * Task 0: *Everything was new for me. Branching surprised me. All studied I will to use in the future.*
+
+---
+[![Website Performance Optimization](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_draft_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_draft.png)
+[![PageSpeed Insights page 1 desktop](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page1-desktop_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page1-desktop.png)
+[![PageSpeed Insights page 1 mobile](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page1-mobile_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page1-mobile.png)
+[![PageSpeed Insights page 2 desktop](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page2-desktop_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page2-desktop.png)
+[![PageSpeed Insights page 2 mobile](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page2-mobile_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page2-mobile.png)
+[![PageSpeed Insights page 3 desktop](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page3-desktop_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page3-desktop.png)
+[![PageSpeed Insights page 3 mobile](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page3-mobile_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page3-mobile.png)
+[![PageSpeed Insights page 3 desktop](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page4-desktop_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page4-desktop.png)
+[![PageSpeed Insights page 3 mobile](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_9/task9-0_page4-mobile_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_9/task9-0_page4-mobile.png)
+Demo: [ermondel.github.io/frontend-nanodegree-mobile-portfolio/](https://ermondel.github.io/frontend-nanodegree-mobile-portfolio/)
 
 ---
 [![Memory Pair Game](https://github.com/ermondel/kottans_frontend/blob/master/images/thumbnails/screenshots/task_8/task8-0_thb.png)](https://github.com/ermondel/kottans_frontend/blob/master/images/screenshots/task_8/task8-0.png)
