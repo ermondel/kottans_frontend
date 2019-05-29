@@ -21,22 +21,22 @@ Responsive Layouts (Pizza) [Demo](https://ermondel.github.io/pizza/) [Repo](http
 
 Completed Udacity courses  
 
-| n | Name | Link |
-| --- | --- | --- |
-| 1 | Networking for Web Developers | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/networking-for-web-developers--ud256) |
-| 2 | How to Use Git and GitHub | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/how-to-use-git-and-github--ud775) |
-| 3 | Version Control with Git | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/version-control-with-git--ud123)|
-| 4 | ES6 | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/es6-javascript-improved--ud356) |
-| 5 | JavaScript and the DOM | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/javascript-and-the-dom--ud117) |
-| 6 | JavaScript Promises | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/javascript-promises--ud898) |
-| 7 | Asynchronous JavaScript Requests | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) |
-| 8 | Responsive Web Design Fundamentals | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
-| 9 | Responsive Images | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/responsive-images--ud882) |
-| 10 | Website Performance Optimization | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/website-performance-optimization--ud884) |
-| 11 | Browser Rendering Optimization | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/browser-rendering-optimization--ud860) |
-| 12 | Configuring Linux Web Servers | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/configuring-linux-web-servers--ud299) |
-| 13 | Linux Command Line Basics | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/linux-command-line-basics--ud595) |
-| 14 | Offline Web Applications | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/offline-web-applications--ud899)|
+| n | Name |
+| --- | --- |
+| 1 | Networking for Web Developers [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/networking-for-web-developers--ud256) |
+| 2 | How to Use Git and GitHub [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/how-to-use-git-and-github--ud775) |
+| 3 | Version Control with Git [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/version-control-with-git--ud123) |
+| 4 | ES6 [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/es6-javascript-improved--ud356) |
+| 5 | JavaScript and the DOM [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/javascript-and-the-dom--ud117) |
+| 6 | JavaScript Promises [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/javascript-promises--ud898) |
+| 7 | Asynchronous JavaScript Requests [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) |
+| 8 | Responsive Web Design Fundamentals [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) |
+| 9 | Responsive Images [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/responsive-images--ud882) |
+| 10 | Website Performance Optimization [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/website-performance-optimization--ud884) |
+| 11 | Browser Rendering Optimization [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/browser-rendering-optimization--ud860) |
+| 12 | Configuring Linux Web Servers [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/configuring-linux-web-servers--ud299) |
+| 13 | Linux Command Line Basics [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/linux-command-line-basics--ud595) |
+| 14 | Offline Web Applications [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/offline-web-applications--ud899)|
 | 15 | Object-Oriented JavaScript | *not available* |
-| 16 | Intro to JavaScript | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/intro-to-javascript--ud803) |
-| 17 | Intro to HTML and CSS | [![Link](https://github.com/ermondel/tsttmp/blob/master/files/udacity-link.png)](https://www.udacity.com/course/intro-to-html-and-css--ud001) |
+| 16 | Intro to JavaScript [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/intro-to-javascript--ud803) |
+| 17 | Intro to HTML and CSS [![external link](https://github.com/ermondel/tsttmp/blob/master/files/ExternalLink16.png)](https://www.udacity.com/course/intro-to-html-and-css--ud001) |
